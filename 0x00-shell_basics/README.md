@@ -10,4 +10,5 @@ The tasks required in this directory wer to write scripts to do the following:
 6. Create a directory called holberton in the tmp directory.
 7. Moving the file betty from one directory to another directory.
 8. Deleting the file betty from the tmp/holberton directory.
-9. 
+9. Delete the directory named holberton from the tmp directory.
+
